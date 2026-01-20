@@ -29,6 +29,23 @@ Sou Pedro Henrique Guimaraes, estudante de TI, estou me profissinalizando na ár
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
            
+<img 
+    align = left
+    alt = "C#"
+    title = "C#"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/> 
+
+<img 
+    align = left
+    alt = "JAVA"
+    title = "java"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/> 
 
 <img 
     align = left
@@ -38,15 +55,24 @@ Sou Pedro Henrique Guimaraes, estudante de TI, estou me profissinalizando na ár
     style = "padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
 />
+
+<img 
+    align = left
+    alt = "JSON"
+    title = "JSON"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
+/>
           
 
 <img  
     align = left
-    alt = "Python"
-    title = "Python"
+    alt = "GitLab"
+    title = "GitLab"
     width = "30px"  
     style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" 
 />            
           
 
@@ -82,14 +108,14 @@ Sou Pedro Henrique Guimaraes, estudante de TI, estou me profissinalizando na ár
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luccags&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=guimaraes03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      style= "padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
-
 </p>
