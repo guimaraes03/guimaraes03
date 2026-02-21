@@ -6,10 +6,10 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-Sou estudante de Tecnologia da Informação, buscando aprimorar minhas habilidades em desenvolvimento e construir projetos práticos.  
-Tenho interesse em oportunidades de aprendizado, estágio e crescimento profissional na área de tecnologia.
+Sou estudante de Tecnologia da Informação, focado no desenvolvimento de software e na construção de projetos práticos.  
+Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a oportunidades de aprendizado e crescimento profissional.
 
 ---
 
@@ -27,13 +27,17 @@ Tenho interesse em oportunidades de aprendizado, estágio e crescimento profissi
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do Perfil
 
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimaraes03&theme=tokyonight"
   />
 </p>
+
+---
+
+## 💻 Linguagens Mais Utilizadas
 
 <p align="center">
   <img 
