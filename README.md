@@ -6,10 +6,9 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 📫 Me conecte
 
-Sou estudante de Tecnologia da Informação, focado no desenvolvimento de software e na construção de projetos práticos.  
-Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a oportunidades de aprendizado e crescimento profissional.
+🔗 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-guimaraes-b66612212)
 
 ---
 
@@ -31,7 +30,7 @@ Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a opo
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimaraes03&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=guimaraes03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github&v=4"
   />
 </p>
 
@@ -41,19 +40,6 @@ Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a opo
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guimaraes03&theme=tokyonight"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guimaraes03&theme=tokyonight"
-  />
-</p>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=guimaraes03&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes03&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8&v=4"
   />
 </p>
