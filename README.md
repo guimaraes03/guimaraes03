@@ -23,7 +23,7 @@ Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a opo
 <p align="center">
   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-   <img alt="C" width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg](https://icons8.com.br/icon/40670/c-programming)"/>
+   <img alt="C" width="40px" src="https://icons8.com.br/icon/40670/c-programming)"/>
   <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
