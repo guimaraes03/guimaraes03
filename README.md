@@ -30,13 +30,9 @@ Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e
 ## 📊 Estatísticas
 
 <p align="left">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=guimaraes03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github&cache_seconds=1800"
-  />
-  
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&cache_seconds=1800"
-  />
+  <img height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=guimaraes03&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&v=2" />
+
+  <img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes03&theme=tokyonight&layout=compact&langs_count=7&v=2" />
 </p>
