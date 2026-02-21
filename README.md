@@ -6,10 +6,15 @@
 
 ---
 
+
 ## 🚀 Sobre Mim
 
 Sou estudante de Tecnologia da Informação, focado no desenvolvimento de software e na construção de projetos práticos.  
 Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a oportunidades de aprendizado e crescimento profissional.
+
+## 📫 Conecte-se comigo
+
+🔗 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-guimaraes-b66612212)
 
 ---
 
